@@ -1,5 +1,3 @@
-# datasets-for-colab
-
 # 📊 Datasets for Colab
 
 This repository contains public datasets used for data analysis and machine learning experiments.
